@@ -1,0 +1,15 @@
+{
+  "name": "trabalhofinal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.13",
+    "nodemon": "^2.0.6",
+    "pg": "^8.5.1"
+  }
+}
